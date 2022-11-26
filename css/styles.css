@@ -13,3 +13,6 @@ color:hwb(93 0% 39%);
     width: 200px;
     border-radius: 50%;
 }
+#content{
+    text-align: center;
+}
