@@ -9,3 +9,7 @@ h2 {
 p{
 color:hwb(93 0% 39%);
 }
+#my-avatar{
+    width: 200px;
+    border-radius: 50%;
+}
