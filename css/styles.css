@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Adamina&family=Nerko+One&display=swap');
 body {
     background-color:black;
+    font-family: 'Adamina', serif;
 }
 
 h1,
@@ -15,4 +17,7 @@ color:hwb(93 0% 39%);
 }
 #content{
     text-align: center;
+}
+#my-name{
+    font-family: 'Nerko One', cursive;
 }
