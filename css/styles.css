@@ -23,3 +23,18 @@ body {
     font-family: 'Nerko One', cursive;
     color: #50577A;
 }
+#left-side{
+    width: 49%;
+    display: inline-block
+}
+#right-side{
+    width: 49%;
+    display: inline-block;
+    text-align: right;
+}
+header{
+    margin-top: 16px;
+}
+.nav-link{
+    margin-left:8px;
+}
